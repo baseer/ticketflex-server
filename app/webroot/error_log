@@ -1,0 +1,59 @@
+[12-Oct-2012 01:28:11] PHP Fatal error:  Class 'JSONController' not found in /home/baseersi/public_html/ticketflex/app/Controller/EventsController.php on line 2
+[12-Oct-2012 01:44:28] PHP Fatal error:  Class 'JsonViewView' not found in /home/baseersi/public_html/ticketflex/lib/Cake/Controller/Controller.php on line 941
+[11-Nov-2012 18:59:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 15
+[11-Nov-2012 19:00:11] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 15
+[11-Nov-2012 19:00:16] PHP Parse error:  syntax error, unexpected ';' in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 20
+[11-Nov-2012 19:30:39] PHP Parse error:  syntax error, unexpected T_ELSE in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 24
+[11-Nov-2012 19:30:55] PHP Fatal error:  Class 'Facebook' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 5
+[11-Nov-2012 19:31:01] PHP Fatal error:  Class 'Facebook' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 5
+[11-Nov-2012 19:31:14] PHP Fatal error:  Class 'Facebook' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 6
+[11-Nov-2012 19:31:15] PHP Fatal error:  Class 'Facebook' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 6
+[11-Nov-2012 19:31:15] PHP Fatal error:  Class 'Facebook' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 6
+[11-Nov-2012 19:31:16] PHP Fatal error:  Class 'Facebook' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 6
+[11-Nov-2012 19:31:38] PHP Fatal error:  Class 'Facebook' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 7
+[11-Nov-2012 19:31:39] PHP Fatal error:  Class 'Facebook' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 7
+[11-Nov-2012 19:32:36] PHP Fatal error:  Call to a member function getMe() on a non-object in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 8
+[11-Nov-2012 19:33:48] PHP Fatal error:  Call to undefined method Facebook::processBasicAuth() in /home/baseersi/public_html/ticketflex/app/Model/Facebook.php on line 88
+[11-Nov-2012 19:33:49] PHP Fatal error:  Call to undefined method Facebook::processBasicAuth() in /home/baseersi/public_html/ticketflex/app/Model/Facebook.php on line 88
+[11-Nov-2012 19:35:35] PHP Fatal error:  Access to undeclared static property: Facebook::$httpHeaders in /home/baseersi/public_html/ticketflex/app/Model/Facebook.php on line 102
+[11-Nov-2012 19:38:40] PHP Fatal error:  Call to a member function findByFacebookAccessToken() on a non-object in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 20
+[11-Nov-2012 19:38:55] PHP Fatal error:  Call to a member function findByFacebookAccessToken() on a non-object in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 20
+[11-Nov-2012 19:41:18] PHP Fatal error:  Call to a member function findByFacebookAccessToken() on a non-object in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 21
+[11-Nov-2012 19:41:51] PHP Fatal error:  Call to a member function findByFacebookAccessToken() on a non-object in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 21
+[12-Nov-2012 00:27:41] PHP Fatal error:  Class 'Security' not found in /home/baseersi/public_html/ticketflex/app/Controller/UsersController.php on line 24
+[15-Nov-2012 23:07:20] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/baseersi/public_html/ticketflex/app/Model/Ticket.php on line 10
+[20-Nov-2012 20:46:49] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/baseersi/public_html/ticketflex/app/Controller/TicketsController.php on line 6
+[14-Dec-2012 01:13:04] PHP Parse error:  syntax error, unexpected '}' in /home/baseersi/public_html/ticketflex/app/Controller/EventsController.php on line 109
+[14-Dec-2012 03:21:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 9
+[15-Dec-2012 00:05:44] PHP Parse error:  syntax error, unexpected '}' in /home/baseersi/public_html/ticketflex/app/Controller/EventsController.php on line 13
+[15-Dec-2012 00:08:45] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/baseersi/public_html/ticketflex/app/Controller/EventsController.php on line 11
+[15-Dec-2012 01:14:52] PHP Parse error:  syntax error, unexpected ')' in /home/baseersi/public_html/ticketflex/app/Controller/EventsController.php on line 90
+[15-Dec-2012 03:09:45] PHP Fatal error:  Call to undefined method TicketsController::statusCode() in /home/baseersi/public_html/ticketflex/app/Controller/JSONController.php on line 12
+[17-Dec-2012 04:06:17] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/baseersi/public_html/ticketflex/app/Model/User.php on line 3
+[17-Dec-2012 04:31:53] PHP Fatal error:  Class 'JSONController' not found in /home/baseersi/public_html/ticketflex/app/Controller/ImagesController.php on line 2
+[17-Dec-2012 23:58:52] PHP Fatal error:  Cannot unset string offsets in /home/baseersi/public_html/ticketflex/app/Model/Image.php on line 9
+[18-Dec-2012 00:00:36] PHP Fatal error:  Cannot unset string offsets in /home/baseersi/public_html/ticketflex/app/Model/Image.php on line 8
+[18-Dec-2012 00:01:09] PHP Fatal error:  Cannot unset string offsets in /home/baseersi/public_html/ticketflex/app/Model/Image.php on line 8
+[18-Dec-2012 00:01:58] PHP Fatal error:  Cannot use string offset as an array in /home/baseersi/public_html/ticketflex/app/Model/Image.php on line 10
+[18-Dec-2012 00:02:39] PHP Fatal error:  Cannot use string offset as an array in /home/baseersi/public_html/ticketflex/app/Model/Image.php on line 11
+[20-Dec-2012 02:32:20] PHP Fatal error:  Using $this when not in object context in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 23
+[20-Dec-2012 02:32:26] PHP Fatal error:  Using $this when not in object context in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 23
+[20-Dec-2012 02:33:26] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:33:27] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:33:56] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:34:53] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:35:13] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:35:14] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:35:14] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:35:15] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:35:15] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:35:15] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:35:15] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:36:21] PHP Fatal error:  Call to undefined method EventsController::numActiveTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 17
+[20-Dec-2012 02:37:06] PHP Fatal error:  Call to undefined method EventsController::numRemainingTickets() in /home/baseersi/public_html/ticketflex/app/Model/Event.php on line 18
+[23-Dec-2012 17:58:42] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/baseersi/public_html/ticketflex/app/Controller/TicketsController.php on line 39
+[23-Dec-2012 17:59:15] PHP Fatal error:  Class 'AppModel' not found in /home/baseersi/public_html/ticketflex/app/Model/User.php on line 2
+[24-Dec-2012 17:52:55] PHP Fatal error:  Call to undefined function  throwticketstatuschangeerror() in /home/baseersi/public_html/ticketflex/app/Controller/TicketsController.php on line 316
+[24-Dec-2012 18:00:38] PHP Fatal error:  Call to undefined function  throwticketstatuschangeerror() in /home/baseersi/public_html/ticketflex/app/Controller/TicketsController.php on line 316
+[24-Dec-2012 19:32:33] PHP Fatal error:  Call to undefined function  throwticketstatuschangeerror() in /home/baseersi/public_html/ticketflex/app/Controller/TicketsController.php on line 316
+[28-Dec-2012 22:47:02] PHP Fatal error:  Call to undefined function  getimagefromstring() in /home/baseersi/public_html/ticketflex/app/Controller/ImagesController.php on line 25
